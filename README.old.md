@@ -1,2 +1,0 @@
-# MotivoFrontendTest
-Motivo Frontend Test
